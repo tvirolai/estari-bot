@@ -1,0 +1,17 @@
+/target
+/data
+*.txt
+*.png
+/classes
+/checkouts
+/data/*
+messages.log
+pom.xml
+pom.xml.asc
+profiles.clj
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
