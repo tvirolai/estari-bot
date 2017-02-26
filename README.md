@@ -1,36 +1,20 @@
 # estari-bot
 
-FIXME: description
+A program for doing fun Markov chain stuff with text messages. About the project (in Finnish) [here](http://www.dataismia.net/).
 
-## Installation
+## Dependencies
 
-Download from http://example.com/FIXME.
+Java and [Leiningen](https://leiningen.org/).
+
+Fetch additional dependencies by running `./initialize.sh`.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar estari-bot-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+TODO
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
