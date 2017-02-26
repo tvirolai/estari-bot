@@ -6,7 +6,7 @@ A program for doing fun Markov chain stuff with text messages. About the project
 
 Java and [Leiningen](https://leiningen.org/).
 
-Fetch additional dependencies by running `./initialize.sh`.
+Fetch additional dependencies by running `./script/initialize.sh`.
 
 ## Usage
 
